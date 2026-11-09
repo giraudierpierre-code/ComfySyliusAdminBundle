@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "oliverde8/comfy-bundle": "dev-master",
+        "oliverde8/comfy-bundle": "^1.4",
         "sylius/admin-bundle": "^2.0",
         "sylius/twig-hooks": "^0.12 || ^0.14",
         "symfony/framework-bundle": "^6.4.1 || ^7.4 || ^8.0"
